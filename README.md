@@ -99,3 +99,11 @@
 <h2 align="left">⚡Activity Graph:</h2>
 
 <a href="https://github.com/2022ashishj"><img alt="Ashish Jadhav Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=2022ashishj&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/></a>
+
+My Projects:
+
+1. Learnify -
+Learnify is an online learning platform similar to Udemy, offering diverse courses with video lectures, quizzes, and certificates. Users can learn at their own pace, and instructors can create and manage courses, making education accessible to all.
+
+Live Link : <a href="https://hack-sculptress-6789-1.onrender.com/">Learnify</a>
+ 
