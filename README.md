@@ -106,4 +106,14 @@ My Projects:
 Learnify is an online learning platform similar to Udemy, offering diverse courses with video lectures, quizzes, and certificates. Users can learn at their own pace, and instructors can create and manage courses, making education accessible to all.
 
 Live Link : <a href="https://hack-sculptress-6789-1.onrender.com/">Learnify</a>
+
+2. Toppers-Academy-
+Toppers Academy is an online education platform inspired by Khan Academy, offering free video lessons and exercises across various subjects to help students learn at their own pace.
+
+Live Link : <a href="https://toppers-academy-henna.vercel.app/">Toppers Academy</a>
+
+3. Pollify-
+Pollify is a user-friendly platform where anyone can create, share, and participate in polls. It allows users to gather opinions, make decisions, and see real-time results, making it easy to engage with others and make informed choices.
+
+Live Link : <a href="https://pollify-1.onrender.com/">Pollify</a>
  
